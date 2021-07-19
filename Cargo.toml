@@ -1,0 +1,12 @@
+[package]
+name = "closed-unitigs"
+version = "0.1.0"
+authors = ["DPDmancul <dp.d-@live.it>"]
+edition = "2018"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+snafu = "0.3.1"
+regex = "1"
